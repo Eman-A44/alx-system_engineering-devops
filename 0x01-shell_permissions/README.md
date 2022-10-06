@@ -13,3 +13,4 @@ script that adds execute permission to all subdirectories of the current directo
 Create a script that creates a directory called my_dir with permissions 751 in the working directory
 script that changes the group owner
 script that changes the owner and the group owner
+script that changes the owner of the file hello to betty only if it is owned by the user guillaume
