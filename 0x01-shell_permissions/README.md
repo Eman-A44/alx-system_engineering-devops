@@ -6,3 +6,5 @@ script that creates an empty file
 script that adds execute permission to the owner
 script that adds execute permission to the owner and the group owner, and read permission to other users
 script that adds execution permission to the owner, the group owner and the other users
+script that set Owner: no permission at all Group: no permission at all Other users: all the permissions
+script that sets the mode of the file
